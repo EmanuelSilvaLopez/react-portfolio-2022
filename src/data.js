@@ -25,11 +25,11 @@ export const webdevPortfolio = [
   },
   {
     id: 4,
-    title: "Taskinator",
+    title: "Grub Burger",
     img:
-    "https://i.imgur.com/sECdFX4.png",
+    "https://i.imgur.com/SvpSKnI.png",
     link:
-    "https://emanuelsilvalopez.github.io/Taskinator/",
+    "https://github.com/eucalyptus1/grub-burger.git",
   },
   {
     id: 5,
